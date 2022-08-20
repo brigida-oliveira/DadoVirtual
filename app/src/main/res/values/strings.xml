@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dado Virtual</string>
+    <string name="dado_de_seis_lados">Dado de seis lados</string>
+    <string name="calcular">Lançar dado!</string>
+</resources>
